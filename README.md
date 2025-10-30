@@ -126,10 +126,10 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-![Alt text](../1.png)
+[!sem](./1.png)
 
 $ ipcs
-![Alt text](../2.png)
+![ipcs](./2.png)
 
 
 
