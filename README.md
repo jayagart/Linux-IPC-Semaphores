@@ -126,7 +126,7 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-[!sem](./1.png)
+![sem](./1.png)
 
 $ ipcs
 ![ipcs](./2.png)
